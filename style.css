@@ -1,0 +1,22 @@
+.wrapper{
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+    margin-top: 300px;
+}
+h2{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+#value{
+    display: block;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 50px;
+}
+.decrease, .reset, .increase{
+    padding: 5px;
+    font-size: 20px;
+    border: 2px solid green;
+    margin: 5px;
+}
